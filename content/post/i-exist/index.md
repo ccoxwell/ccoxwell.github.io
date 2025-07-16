@@ -1,7 +1,7 @@
 ---
-title: "I exist."
+title: "I Exist"
 description: 
-date: 2025-07-16T14:20:57-04:00
+date: 2025-07-16T14:34:40-04:00
 image: 
 math: 
 license: 
